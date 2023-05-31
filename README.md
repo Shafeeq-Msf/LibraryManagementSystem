@@ -1,13 +1,14 @@
 # Library Management System
 The Library Management System is a Java-based application that allows users to manage books in a library. It provides features such as adding books, removing books, updating book information, searching for books, displaying all books, showing available books, borrowing books, and returning books.
 
-Getting Started
+# Getting Started
 To use the Library Management System, follow these steps:
 
-Clone the repository: git clone <repository-url>
-Open the project in your preferred Java IDE.
-Compile and run the LibraryManagementSystem class to start the application.
-Usage
+1.Clone the repository: git clone <repository-url>
+2.Open the project in your preferred Java IDE.
+3.Compile and run the LibraryManagementSystem class to start the application.
+  
+**Usage**
 Upon running the application, a menu will be displayed with various options. Use the number keys to select the desired option. Here are the available options:
 
 Add Book: Allows you to add a new book to the library. Enter the book's ISBN, title, author, and publication year.
