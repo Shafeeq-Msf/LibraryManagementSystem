@@ -31,5 +31,5 @@ Contributions to the Library Management System are welcome! If you encounter any
 The Library Management System is open-source software licensed under the **MIT License**.
 
 # Contact
-If you have any questions or need assistance, please contact **Shafeeq S** at **shafeeq.salaudeen@anywhere.co**
+If you have any questions or need assistance, please contact **Shafeeq S** at **sshafeeqmhd@gmail.com**
 
